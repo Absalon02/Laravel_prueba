@@ -24,13 +24,17 @@
         @media (min-width: 768px) {
           .bd-placeholder-img-lg {
             font-size: 3.5rem;
+            
           }
         }
+
+        
       </style>
 
     
     </head>
-    <body class="d-flex flex-column h-100">
+  
+  <body class="d-flex flex-column h-100">
       
   <header>
     <!-- Fixed navbar -->
